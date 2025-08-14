@@ -1,14 +1,5 @@
 
->[!NOTE]
-This theme uses GSAP library, make sure to refer to their licensing.
-
-
-**Github**: https://github.com/PaulleDemon/awesome-landing-pages
-
-## Usage
-
-* This template uses tailwind css every tailwind class are prefixed with `tw-`, to help differentiate
-  between tailwind classes and other classes  
+https://poyanbd.github.io/node-hono/
 
 During development add the following to head tag
 
